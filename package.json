@@ -9,7 +9,7 @@
   "author": "Joachim Praetorius",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.0",
     "eslint-config-fnd": "^1.13.0",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-n": "^17.23.2",
